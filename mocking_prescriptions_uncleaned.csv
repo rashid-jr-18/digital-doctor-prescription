@@ -1,0 +1,526 @@
+PatientID,DoctorName,MedicineName,Dosage,Frequency,Date,Diagnosis,Notes,Price
+P0153,Dr. Michael Green,Amoxicillin,400mg,Twice daily,2024-06-12,diabetes,Take after meals,12.0
+P0114,Dr. Michael Green,Paracetamol,400mg,Thrice daily,2025-04-05,Fever,Take after meals,5.0
+P0109,Dr. Michael Green,Paracetamol,500mg,Once daily,2024-07-06,Allergy,Drink plenty of water,5.0
+P0466,dr. lisa ray,Omeprazole,850mg,Twice daily,2024-07-15,infection,Complete full course,14.0
+P0286,Dr. Emily Stone,Ibuprofen,850mg,Twice daily,2024-12-14,Diabetes,Complete full course,8.0
+P0204,Dr. Alan Walker,Amoxicillin ,10mg,,2024-05-05,Acid reflux,Avoid alcohol,12.0
+P0254,dr. john smith,Loratadine,850mg,Once daily,2024-08-19,Fever,Take after meals,10.0
+P0197,Dr. Michael Green,Ibuprofen,250mg,Twice daily,2024-05-08,Headache ,Drink plenty of water,8.0
+P0223,dr. alan walker,Amoxicillin,10mg,Once daily,2024-12-30,Acid reflux,Monitor blood sugar,12.0
+P0423,Dr. Michael Green,Omeprazole,500mg,Twice daily,2024-07-13,diabetes,Avoid allergens,14.0
+P0252,Dr. Alan Walker,Ibuprofen,250mg,,2024-11-30,Headache ,Monitor blood sugar,8.0
+P0247,Dr. Lisa Ray,Loratadine,850mg,Once daily,2024-07-09,Fever,Take after meals,10.0
+P0103,Dr. Emily Stone,amlodipine,10mg,Once daily,2024-11-22,Hypertension,Complete full course,11.0
+P0443,Dr. Emily Stone,Amlodipine,250mg,Thrice daily,2024-06-30,infection,Avoid allergens,11.0
+P0272,Dr. Lisa Ray,Azithromycin,400mg,Thrice daily,2024-05-23,Headache,Avoid allergens,18.0
+P0261,Dr. Emily Stone,Amlodipine ,850mg,Thrice daily,2024-05-12,Fever,Avoid allergens,11.0
+P0037,dr. emily stone,Amlodipine,400mg,Thrice daily,2024-06-07,Fever,Complete full course,11.0
+P0312,Dr. Michael Green,Ibuprofen,850mg,Thrice daily,2024-10-05,Asthma,Drink plenty of water,8.0
+P0377,Dr. Michael Green,Paracetamol,250mg,Once daily,2024-05-14,asthma,Avoid alcohol,5.0
+P0084,Dr. Michael Green,Azithromycin ,400mg,Thrice daily,2024-11-21,Allergy ,,18.0
+P0265,Dr. Emily Stone,Paracetamol,250mg,Once daily,2024-08-03,Diabetes,Monitor blood sugar,5.0
+P0183,Dr. Emily Stone,Amlodipine,500mg,Thrice daily,2024-06-14,Diabetes,Drink plenty of water,11.0
+P0210,dr. michael green ,Amoxicillin,10mg,Thrice daily,2024-07-03,Diabetes,Avoid allergens,12.0
+P0433,Dr. Emily Stone,Azithromycin,250mg,Thrice daily,2024-04-12,hypertension,Monitor blood sugar,18.0
+P0001,dr. alan walker,Amoxicillin,,Once daily,2024-10-29,Hypertension ,Drink plenty of water,12.0
+P0297,dr. lisa ray ,Omeprazole,850mg,Twice daily,2024-06-27,Acid reflux,Drink plenty of water,14.0
+P0159,Dr. Michael Green,Omeprazole,250mg,Thrice daily,2025-03-16,Infection,Avoid alcohol,14.0
+P0415,Dr. John Smith,ibuprofen,500mg,Thrice daily,2024-12-25,hypertension,Drink plenty of water,8.0
+P0028,Dr. Emily Stone,Ibuprofen,10mg,Twice daily,2024-10-20,Acid reflux,Take after meals,8.0
+P0480,Dr. John Smith,Metformin,500mg,Thrice daily,2025-01-12,Acid reflux,Complete full course,15.0
+P0268,Dr. Michael Green,Paracetamol,,Once daily,2024-05-18,Acid reflux,Complete full course,5.0
+P0100,Dr. Alan Walker,Paracetamol,250mg,Once daily,2024-09-30,Diabetes,Take after meals,5.0
+P0362,Dr. Emily Stone,Ibuprofen,250mg,Twice daily,2025-03-16,Hypertension,Drink plenty of water,8.0
+P0092,Dr. Alan Walker ,Loratadine,10mg,Thrice daily,2024-08-04,Hypertension,Monitor blood sugar,10.0
+P0218,Dr. Lisa Ray,Loratadine,10mg,Thrice daily,2025-03-29,Acid reflux,Avoid allergens,10.0
+P0035,Dr. Michael Green,Omeprazole,250mg,Twice daily,2025-03-12,infection,Take after meals,14.0
+P0188,Dr. Michael Green,Amlodipine,250mg,Once daily,2024-10-26,Acid reflux,Take after meals,11.0
+P0003,Dr. Alan Walker,Amoxicillin,10mg,Once daily,2024-10-20,Infection,Take after meals,12.0
+P0479,Dr. Lisa Ray,Amlodipine,850mg,Twice daily,not_a_date,Acid reflux,Avoid allergens,11.0
+P0078,Dr. Michael Green,Azithromycin,10mg,Once daily,2024-07-11,Headache,Drink plenty of water,18.0
+P0435,Dr. Alan Walker,Metformin,400mg,Twice daily,2024-11-09,Fever,Monitor blood sugar,15.0
+P0253,Dr. Emily Stone,Omeprazole,400mg,Twice daily,2025-01-21,Allergy,Drink plenty of water,14.0
+P0237,Dr. John Smith ,Metformin,850mg,Thrice daily,2024-08-14,Hypertension,Take after meals,15.0
+P0054,dr. lisa ray,Metformin,500mg,Twice daily,2024-06-11,Hypertension,Take after meals,15.0
+P0343,Dr. John Smith,Metformin,500mg,Twice daily,2025-04-06,Acid reflux,Complete full course,15.0
+P0177,Dr. Emily Stone,loratadine,500mg,Twice daily,2024-11-15,Diabetes ,Drink plenty of water,10.0
+P0199,Dr. John Smith,Ibuprofen,850mg,Twice daily,2025-01-03,Diabetes,,8.0
+P0336,dr. lisa ray ,Azithromycin,400mg,Twice daily,2024-08-02,Asthma,Take after meals,18.0
+P0294,Dr. Alan Walker,Metformin,500mg,Once daily,2024-05-30,Allergy ,Complete full course,15.0
+P0235,Dr. John Smith,Omeprazole,500mg,Once daily,2024-09-25,Fever,Monitor blood sugar,14.0
+P0474,Dr. John Smith,Amoxicillin,250mg,Once daily,2024-08-30,diabetes,Avoid allergens,12.0
+P0180,Dr. John Smith,Metformin,850mg,Thrice daily,2024-09-29,headache,Avoid allergens,15.0
+P0422,Dr. Emily Stone,azithromycin,,Once daily,2024-12-17,Hypertension,Take after meals,18.0
+P0224,Dr. John Smith,Amlodipine,250mg,Once daily,2024-08-05,Fever,Drink plenty of water,11.0
+P0154,Dr. Emily Stone,Ibuprofen,10mg,Once daily,2024-08-24,Headache,Avoid allergens,8.0
+P0231,Dr. Alan Walker,Ibuprofen,850mg,Twice daily,2024-12-14,Fever,Take after meals,8.0
+P0461,Dr. Lisa Ray,Loratadine ,500mg,,2024-10-13,Infection,Avoid alcohol,10.0
+P0032,Dr. Alan Walker,Azithromycin,850mg,Thrice daily,2025-02-24,Headache,Monitor blood sugar,18.0
+P0259,Dr. Lisa Ray ,Amoxicillin,250mg,Thrice daily,2024-06-19,Allergy,Avoid alcohol,12.0
+P0429,Dr. John Smith,Metformin,400mg,,2025-01-11,Allergy,Avoid alcohol,15.0
+P0200,Dr. Alan Walker,Loratadine,850mg,Twice daily,2025-01-31,Hypertension,Avoid alcohol,10.0
+P0246,Dr. Lisa Ray ,Paracetamol ,500mg,,2024-08-12,Infection,,5.0
+P0471,dr. michael green,Ibuprofen,850mg,Twice daily,2024-08-08,Fever,,8.0
+P0434,Dr. John Smith,Loratadine,10mg,Once daily,2024-09-10,Fever,Drink plenty of water,10.0
+P0101,Dr. Michael Green ,Omeprazole,250mg,Twice daily,2024-08-21,Headache,Drink plenty of water,14.0
+P0133,dr. alan walker ,Loratadine,400mg,Thrice daily,2024-11-26,Infection,Complete full course,10.0
+P0456,Dr. Michael Green,Omeprazole,500mg,Thrice daily,2024-12-27,Diabetes,Avoid allergens,14.0
+P0111,Dr. Emily Stone,Amoxicillin,400mg,Once daily,2024-08-30,Allergy,Complete full course,12.0
+P0333,Dr. Michael Green,Paracetamol,500mg,Twice daily,2024-08-24,Allergy,Complete full course,5.0
+P0341,Dr. Lisa Ray,Loratadine,400mg,Once daily,2025-01-14,Hypertension,Monitor blood sugar,10.0
+P0354,Dr. Michael Green,amoxicillin,10mg,Once daily,2025-03-03,Asthma,Drink plenty of water,12.0
+P0274,Dr. Michael Green ,Metformin,10mg,Thrice daily,2025-03-15,Infection,Avoid alcohol,15.0
+P0331,Dr. Lisa Ray,Paracetamol,10mg,Twice daily,2024-11-23,Infection,Monitor blood sugar,5.0
+P0277,Dr. Michael Green,metformin,500mg,Once daily,2024-09-12,diabetes ,Complete full course,15.0
+P0147,Dr. John Smith,Metformin ,500mg,Once daily,2024-12-13,Diabetes,Complete full course,15.0
+P0062,Dr. Emily Stone,Omeprazole,10mg,Once daily,2025-02-21,Fever,,14.0
+P0202,Dr. Lisa Ray,Paracetamol,250mg,Thrice daily,2025-01-03,Asthma,Complete full course,5.0
+P0095,dr. lisa ray,Loratadine,500mg,Thrice daily,2024-05-31,Allergy,Avoid allergens,10.0
+P0258,Dr. Alan Walker,Paracetamol,850mg,Twice daily,2024-05-17,Headache,Drink plenty of water,5.0
+P0127,Dr. Michael Green,Omeprazole,850mg,Once daily,2025-03-20,allergy ,Complete full course,14.0
+P0329,Dr. Michael Green,Ibuprofen,500mg,Thrice daily,2024-11-03,Diabetes,Avoid alcohol,8.0
+P0048,Dr. Michael Green,Amlodipine,400mg,Once daily,2025-02-17,asthma ,Take after meals,11.0
+P0278,Dr. Lisa Ray,Ibuprofen,500mg,Once daily,2024-10-28,Diabetes,,8.0
+P0421,Dr. Emily Stone,Paracetamol,500mg,Twice daily,2025-01-27,Infection ,Take after meals,5.0
+P0215,Dr. Alan Walker,Amoxicillin,850mg,Once daily,2024-05-22,Allergy,Complete full course,12.0
+P0365,Dr. John Smith,Paracetamol,400mg,Twice daily,2024-10-04,Allergy,Complete full course,5.0
+P0039,Dr. Alan Walker,Paracetamol,,Twice daily,2024-05-18,Acid reflux,,5.0
+P0214,dr. john smith ,Ibuprofen,250mg,Thrice daily,2024-06-25,Headache,Complete full course,8.0
+P0022,Dr. John Smith,Omeprazole ,850mg,Thrice daily,2025-02-11,Fever,Take after meals,14.0
+P0144,Dr. Emily Stone,Loratadine,10mg,Twice daily,2024-10-25,infection,Avoid allergens,10.0
+P0110,Dr. Alan Walker,Amoxicillin ,500mg,,2024-08-06,Asthma,Avoid alcohol,12.0
+P0454,Dr. Alan Walker,Metformin,850mg,Thrice daily,2024-11-15,Asthma,Complete full course,15.0
+P0066,Dr. Emily Stone ,loratadine,850mg,Twice daily,2024-05-07,Allergy,Avoid alcohol,10.0
+P0289,Dr. Emily Stone,Paracetamol,10mg,Thrice daily,2024-11-06,hypertension,Complete full course,5.0
+P0060,Dr. Emily Stone,Ibuprofen,850mg,Thrice daily,2024-08-25,Diabetes,Monitor blood sugar,8.0
+P0232,Dr. Michael Green,Omeprazole,850mg,Twice daily,2024-09-16,Allergy,Avoid alcohol,14.0
+P0085,Dr. Lisa Ray,Amlodipine,850mg,Thrice daily,2025-02-24,allergy,Take after meals,11.0
+P0402,Dr. Emily Stone,omeprazole,250mg,Twice daily,2024-11-17,Acid reflux,Take after meals,14.0
+P0337,Dr. John Smith,omeprazole,250mg,Twice daily,2025-02-27,allergy,Avoid alcohol,14.0
+P0166,dr. alan walker,Omeprazole,250mg,Once daily,2025-03-07,Hypertension,Monitor blood sugar,14.0
+P0002,Dr. Emily Stone,amoxicillin,500mg,Once daily,2024-05-22,Hypertension ,Avoid allergens,12.0
+P0240,Dr. Michael Green,Azithromycin,500mg,Thrice daily,2024-12-25,Hypertension,Take after meals,18.0
+P0283,Dr. Lisa Ray,Metformin,500mg,Thrice daily,2024-10-17,Headache ,Monitor blood sugar,15.0
+P0498,Dr. Emily Stone,Ibuprofen,400mg,Thrice daily,2024-08-31,Acid reflux,Take after meals,8.0
+P0153,Dr. Michael Green,Amoxicillin,400mg,Twice daily,2024-06-12,diabetes,Take after meals,12.0
+P0425,Dr. Emily Stone,Ibuprofen ,10mg,Once daily,2024-09-24,Allergy,Avoid allergens,8.0
+P0439,Dr. Lisa Ray,ibuprofen,500mg,Twice daily,2025-02-20,Infection,Drink plenty of water,8.0
+P0416,Dr. John Smith ,metformin,500mg,Twice daily,2024-12-24,Diabetes,Avoid allergens,15.0
+P0296,Dr. John Smith,Amoxicillin,850mg,Once daily,2024-11-03,Acid reflux,Monitor blood sugar,12.0
+P0142,dr. michael green,Amlodipine ,10mg,Once daily,2025-02-24,Hypertension,Take after meals,11.0
+P0281,Dr. Lisa Ray,Paracetamol,500mg,Thrice daily,2024-08-21,Fever,Avoid alcohol,5.0
+P0250,Dr. Michael Green,Omeprazole,500mg,Once daily,2024-08-23,Headache ,Complete full course,14.0
+P0068,Dr. Lisa Ray,Amlodipine,400mg,Thrice daily,2024-05-28,Headache,Avoid alcohol,11.0
+P0300,dr. lisa ray,Azithromycin,250mg,Thrice daily,2024-07-20,Asthma,Avoid alcohol,18.0
+P0192,Dr. Alan Walker,Loratadine,850mg,Twice daily,2025-03-28,Acid reflux,Monitor blood sugar,10.0
+P0306,Dr. Lisa Ray,Loratadine ,400mg,Twice daily,2024-10-22,Hypertension,Drink plenty of water,10.0
+P0070,Dr. Emily Stone,Metformin,10mg,Twice daily,2024-05-06,Infection,Avoid alcohol,15.0
+P0328,Dr. Emily Stone,Amoxicillin,850mg,Once daily,2024-09-22,Asthma,Take after meals,12.0
+P0363,Dr. Emily Stone,Amlodipine,10mg,Twice daily,2024-07-21,headache,,11.0
+P0058,Dr. Emily Stone,Omeprazole,500mg,Twice daily,2025-02-15,Asthma,Take after meals,14.0
+P0487,Dr. John Smith,Amlodipine,500mg,Once daily,2024-09-24,Diabetes,Avoid allergens,11.0
+P0222,Dr. Lisa Ray,Omeprazole,500mg,Once daily,2024-07-08,Allergy,Take after meals,14.0
+P0150,Dr. Lisa Ray,Metformin ,10mg,Thrice daily,2024-05-30,Headache ,Avoid allergens,15.0
+P0174,Dr. Emily Stone,Omeprazole,850mg,Once daily,2024-09-06,Asthma,Take after meals,14.0
+P0292,Dr. John Smith,Amoxicillin,250mg,Once daily,2024-12-11,Fever,Take after meals,12.0
+P0389,Dr. Lisa Ray,Omeprazole,10mg,Thrice daily,2024-07-09,Hypertension,Avoid allergens,14.0
+P0036,Dr. Emily Stone,Amlodipine,250mg,Twice daily,2025-01-14,Allergy,Complete full course,11.0
+P0169,Dr. Alan Walker,Loratadine ,250mg,Thrice daily,2024-04-17,Fever ,Avoid allergens,10.0
+P0324,dr. michael green,Amlodipine,850mg,Thrice daily,2024-09-16,Asthma,Monitor blood sugar,11.0
+P0097,Dr. Emily Stone,loratadine,400mg,Thrice daily,2025-01-22,Allergy,Take after meals,10.0
+P0178,Dr. Alan Walker,Ibuprofen,500mg,Thrice daily,2024-07-12,Headache,Drink plenty of water,8.0
+P0303,Dr. Lisa Ray,Azithromycin,500mg,Thrice daily,2024-04-17,Acid reflux,Monitor blood sugar,18.0
+P0387,Dr. John Smith,Omeprazole,250mg,Twice daily,2024-05-17,Hypertension,Monitor blood sugar,14.0
+P0105,Dr. Michael Green,Ibuprofen ,10mg,Thrice daily,2024-06-23,infection ,Avoid alcohol,8.0
+P0106,Dr. Emily Stone,Loratadine,250mg,Twice daily,2025-03-14,Hypertension,Avoid allergens,10.0
+P0417,Dr. Lisa Ray,Ibuprofen ,10mg,Once daily,2025-01-18,Diabetes ,Avoid alcohol,8.0
+P0182,Dr. John Smith,Amlodipine,10mg,Thrice daily,2025-02-17,Fever,Take after meals,11.0
+P0293,Dr. Emily Stone,Ibuprofen,,Once daily,2024-08-30,Acid reflux,Avoid alcohol,8.0
+P0056,Dr. Michael Green,Azithromycin,,Thrice daily,2024-10-25,headache,Avoid alcohol,18.0
+P0366,Dr. Emily Stone ,Metformin ,400mg,Thrice daily,2024-04-27,infection ,Avoid alcohol,15.0
+P0251,Dr. Lisa Ray,Omeprazole,500mg,Once daily,2024-05-12,Acid reflux,Complete full course,14.0
+P0155,Dr. Lisa Ray ,Loratadine,250mg,Thrice daily,2025-03-20,Headache,Take after meals,10.0
+P0218,Dr. Lisa Ray,Loratadine,10mg,Thrice daily,2025-03-29,Acid reflux,Avoid allergens,10.0
+P0245,Dr. Alan Walker,Ibuprofen ,400mg,Once daily,2024-06-16,Allergy,Complete full course,8.0
+P0400,Dr. Alan Walker,Paracetamol,250mg,Thrice daily,2024-08-17,Asthma,Avoid alcohol,5.0
+P0020,Dr. Emily Stone,Loratadine,400mg,Once daily,2024-11-18,Acid reflux,Complete full course,10.0
+P0351,Dr. Alan Walker,Omeprazole,,Thrice daily,2025-02-17,Asthma,Take after meals,14.0
+P0366,Dr. Emily Stone ,Metformin ,400mg,Thrice daily,2024-04-27,infection ,Avoid alcohol,15.0
+P0473,Dr. Alan Walker,Amlodipine,250mg,Twice daily,2025-03-04,Infection,Take after meals,11.0
+P0214,dr. john smith ,Ibuprofen,250mg,Thrice daily,2024-06-25,Headache,Complete full course,8.0
+P0305,dr. michael green,Paracetamol ,250mg,Twice daily,2024-06-12,Allergy,Monitor blood sugar,5.0
+P0256,dr. michael green,Amlodipine,400mg,Twice daily,2025-03-21,fever ,Monitor blood sugar,11.0
+P0341,Dr. Lisa Ray,Loratadine,400mg,Once daily,2025-01-14,Hypertension,Monitor blood sugar,10.0
+P0260,Dr. Alan Walker,Azithromycin,500mg,Thrice daily,2024-09-11,Hypertension,Complete full course,18.0
+P0282,Dr. Alan Walker,Azithromycin,850mg,Once daily,2024-05-07,diabetes,Avoid alcohol,18.0
+P0453,Dr. Lisa Ray,metformin,400mg,Twice daily,2024-08-18,Allergy,Avoid alcohol,15.0
+P0428,Dr. Michael Green,Azithromycin,10mg,Twice daily,2025-04-07,Infection,Avoid allergens,18.0
+P0181,Dr. Alan Walker,amoxicillin,500mg,Twice daily,not_a_date,Headache,Monitor blood sugar,12.0
+P0230,dr. michael green,Loratadine,850mg,Thrice daily,2024-07-17,Asthma,Avoid allergens,10.0
+P0140,Dr. Emily Stone,Omeprazole,250mg,Twice daily,2025-03-20,Infection,Monitor blood sugar,14.0
+P0134,Dr. John Smith,Metformin,400mg,Twice daily,2025-01-27,acid reflux,Avoid alcohol,15.0
+P0008,Dr. Alan Walker,Omeprazole,500mg,Once daily,2024-11-25,Allergy,Take after meals,14.0
+P0019,Dr. Alan Walker,Amlodipine,850mg,Thrice daily,2024-07-02,Allergy,Avoid allergens,11.0
+P0304,Dr. Lisa Ray,Amlodipine,250mg,Once daily,2025-01-23,Diabetes,Take after meals,11.0
+P0276,Dr. Alan Walker,Amoxicillin,10mg,Once daily,2024-06-13,Infection ,Monitor blood sugar,12.0
+P0431,Dr. Alan Walker,Azithromycin,500mg,Thrice daily,2024-10-22,Hypertension,Take after meals,18.0
+P0484,Dr. Alan Walker,Amoxicillin,850mg,Twice daily,2025-01-17,Diabetes,Avoid allergens,12.0
+P0112,Dr. Alan Walker,Amoxicillin,10mg,Thrice daily,2024-06-08,Allergy,Avoid allergens,12.0
+P0450,Dr. Lisa Ray ,Paracetamol,850mg,Twice daily,2024-06-06,Allergy,Avoid allergens,5.0
+P0379,Dr. John Smith,Loratadine,,Once daily,2024-05-31,Acid reflux,Avoid allergens,10.0
+P0225,Dr. John Smith ,Ibuprofen,500mg,Once daily,2025-02-16,Hypertension,Avoid alcohol,8.0
+P0367,Dr. Michael Green,Loratadine ,400mg,Once daily,2024-11-05,Diabetes,Take after meals,10.0
+P0404,Dr. John Smith,amoxicillin ,500mg,Twice daily,2024-12-12,Asthma,Avoid alcohol,12.0
+P0408,Dr. Michael Green,Loratadine,850mg,Twice daily,2024-05-06,Infection,Monitor blood sugar,10.0
+P0121,Dr. John Smith,Amoxicillin,400mg,Once daily,2025-02-19,Acid reflux,Monitor blood sugar,12.0
+P0390,Dr. John Smith,Metformin ,250mg,Thrice daily,not_a_date,Hypertension,Drink plenty of water,15.0
+P0437,Dr. Emily Stone,Metformin,,Once daily,2024-12-24,Hypertension,Avoid allergens,15.0
+P0212,Dr. Michael Green,Amlodipine,850mg,Twice daily,2024-11-24,Fever,Drink plenty of water,11.0
+P0234,Dr. John Smith,Amlodipine,400mg,Thrice daily,2024-09-07,diabetes,Complete full course,11.0
+P0216,Dr. Emily Stone ,Amlodipine,850mg,Twice daily,2024-11-09,Fever,Avoid allergens,11.0
+P0500,Dr. John Smith,Amoxicillin,500mg,Twice daily,2024-07-17,diabetes,Drink plenty of water,12.0
+P0321,Dr. John Smith,loratadine,850mg,Twice daily,2025-01-11,Diabetes ,Take after meals,10.0
+P0104,Dr. Alan Walker,Metformin,250mg,Twice daily,2025-04-04,Acid reflux ,Avoid allergens,15.0
+P0469,Dr. Lisa Ray,Paracetamol,10mg,Twice daily,2025-02-09,Headache,Avoid allergens,5.0
+P0392,Dr. Emily Stone,Amoxicillin,850mg,Thrice daily,2025-02-01,Diabetes,Complete full course,12.0
+P0217,Dr. John Smith,Metformin,400mg,Twice daily,2024-09-29,infection,Monitor blood sugar,15.0
+P0468,Dr. Alan Walker,Metformin,250mg,Twice daily,2024-06-20,Acid reflux,Monitor blood sugar,15.0
+P0446,Dr. Emily Stone,Amlodipine,250mg,Thrice daily,2024-07-31,Diabetes,Drink plenty of water,11.0
+P0285,Dr. Lisa Ray ,Metformin,500mg,Thrice daily,2024-08-07,acid reflux,,15.0
+P0378,Dr. Emily Stone,Azithromycin,500mg,Once daily,2024-09-17,Infection,Complete full course,18.0
+P0339,Dr. Emily Stone,Paracetamol,850mg,,2025-01-17,hypertension,Drink plenty of water,5.0
+P0395,Dr. Alan Walker,Loratadine,400mg,Once daily,2024-07-11,Hypertension,Avoid allergens,10.0
+P0065,Dr. Alan Walker,Amlodipine,850mg,,2024-06-27,Acid reflux,Avoid allergens,11.0
+P0017,Dr. Michael Green,Paracetamol,850mg,Thrice daily,2024-07-12,Diabetes,Take after meals,5.0
+P0442,Dr. Michael Green,Metformin,850mg,Thrice daily,2024-07-08,Diabetes,Complete full course,15.0
+P0334,Dr. Emily Stone,Metformin,500mg,Thrice daily,2024-06-19,Asthma ,Avoid alcohol,15.0
+P0236,dr. emily stone,Amoxicillin,10mg,Once daily,2025-01-14,Headache,Avoid alcohol,12.0
+P0208,Dr. Lisa Ray,Amoxicillin,500mg,Once daily,2024-05-10,Hypertension,Take after meals,12.0
+P0116,Dr. Lisa Ray ,Amoxicillin,400mg,Once daily,2024-09-15,Hypertension ,Avoid allergens,12.0
+P0314,Dr. Lisa Ray,Metformin,10mg,Thrice daily,2024-09-17,allergy,Monitor blood sugar,15.0
+P0242,dr. lisa ray,Omeprazole ,850mg,Twice daily,2024-10-20,Hypertension,Take after meals,14.0
+P0102,Dr. Alan Walker,Metformin ,400mg,Thrice daily,2025-01-26,Fever,Complete full course,15.0
+P0075,dr. emily stone ,Amlodipine,10mg,Twice daily,not_a_date,Headache,Monitor blood sugar,11.0
+P0091,Dr. Alan Walker,Paracetamol,10mg,Once daily,2025-03-15,infection,Avoid allergens,5.0
+P0406,Dr. John Smith,Paracetamol,500mg,Once daily,2024-08-13,Headache,Take after meals,5.0
+P0158,Dr. Emily Stone,Omeprazole,500mg,Twice daily,2024-12-22,Infection,Take after meals,14.0
+P0046,dr. michael green,amoxicillin,,Thrice daily,2024-12-26,Asthma,Complete full course,12.0
+P0410,Dr. John Smith,Loratadine,400mg,Twice daily,2024-06-29,Fever,Avoid allergens,10.0
+P0409,Dr. Emily Stone,Ibuprofen,10mg,Once daily,2024-08-09,Hypertension,Avoid alcohol,8.0
+P0368,Dr. Lisa Ray,paracetamol,850mg,Twice daily,2024-09-14,Acid reflux,Drink plenty of water,5.0
+P0171,Dr. John Smith,Azithromycin,250mg,Twice daily,2025-02-14,Asthma,Complete full course,18.0
+P0358,Dr. Emily Stone ,Amoxicillin,400mg,Thrice daily,2025-02-15,Allergy,Complete full course,12.0
+P0430,dr. emily stone,Loratadine,500mg,Twice daily,2024-10-21,Headache,Avoid alcohol,10.0
+P0467,Dr. Emily Stone,Metformin,400mg,Twice daily,2024-05-03,Infection,Avoid alcohol,15.0
+P0175,Dr. Emily Stone,paracetamol,10mg,Thrice daily,2025-02-16,Headache,Avoid allergens,5.0
+P0327,Dr. Lisa Ray,Azithromycin,250mg,,2025-02-07,Acid reflux,Avoid alcohol,18.0
+P0170,Dr. Michael Green,Azithromycin ,250mg,Thrice daily,2025-03-25,Allergy,Complete full course,18.0
+P0397,Dr. Michael Green,Omeprazole,850mg,Thrice daily,2025-03-02,Acid reflux,Complete full course,14.0
+P0419,Dr. Michael Green,Amlodipine,400mg,Thrice daily,2024-08-08,Fever,Take after meals,11.0
+P0206,Dr. John Smith ,Ibuprofen,400mg,Thrice daily,2024-07-28,Acid reflux,Avoid allergens,8.0
+P0445,Dr. Alan Walker,Paracetamol,400mg,Thrice daily,2024-12-06,Hypertension,Complete full course,5.0
+P0302,Dr. John Smith,Amoxicillin,10mg,Once daily,2024-12-30,Acid reflux,Complete full course,12.0
+P0307,Dr. Lisa Ray,Ibuprofen,,Twice daily,2025-02-14,Infection,Avoid allergens,8.0
+P0403,Dr. Alan Walker,Amlodipine,400mg,Thrice daily,2024-10-07,Infection,Take after meals,11.0
+P0088,Dr. Emily Stone,Omeprazole,10mg,Once daily,2024-08-04,Infection,Complete full course,14.0
+P0013,Dr. Emily Stone,Loratadine,400mg,Thrice daily,2024-04-16,diabetes,Take after meals,10.0
+P0435,Dr. Alan Walker,Metformin,400mg,Twice daily,2024-11-09,Fever,Monitor blood sugar,15.0
+P0053,Dr. Emily Stone,Ibuprofen ,400mg,Twice daily,2024-10-22,Asthma,Take after meals,8.0
+P0157,Dr. Alan Walker,Paracetamol,850mg,,2024-04-30,Acid reflux,Monitor blood sugar,5.0
+P0356,Dr. Michael Green,Omeprazole,10mg,Once daily,2024-09-05,Infection,Avoid allergens,14.0
+P0207,Dr. Emily Stone,Amoxicillin ,10mg,Once daily,2024-10-09,Diabetes ,Avoid allergens,12.0
+P0376,Dr. Michael Green,Ibuprofen ,250mg,Once daily,2025-04-09,Infection,Complete full course,8.0
+P0047,dr. alan walker,metformin,250mg,Once daily,2025-02-02,Fever,Monitor blood sugar,15.0
+P0496,dr. emily stone,Omeprazole,400mg,Once daily,2025-01-14,Acid reflux,Complete full course,14.0
+P0313,Dr. Emily Stone,Loratadine,250mg,Thrice daily,2024-08-10,allergy,Avoid allergens,10.0
+P0135,Dr. Alan Walker,Ibuprofen,10mg,Thrice daily,2024-07-11,Headache,Complete full course,8.0
+P0161,Dr. Alan Walker,Metformin ,400mg,,2024-06-17,Headache,Drink plenty of water,15.0
+P0303,Dr. Lisa Ray,Azithromycin,500mg,Thrice daily,2024-04-17,Acid reflux,Monitor blood sugar,18.0
+P0145,Dr. John Smith,Paracetamol,10mg,Thrice daily,2024-12-12,Acid reflux,Avoid allergens,5.0
+P0448,Dr. Emily Stone,azithromycin,10mg,Twice daily,not_a_date,Diabetes,Avoid alcohol,18.0
+P0270,Dr. Emily Stone,Amlodipine,500mg,Twice daily,2024-10-28,Diabetes,Monitor blood sugar,11.0
+P0462,Dr. Alan Walker,Amoxicillin,,Thrice daily,2025-01-02,Asthma,Take after meals,12.0
+P0090,Dr. John Smith,Azithromycin,10mg,,2024-11-15,Headache,Monitor blood sugar,18.0
+P0497,Dr. Michael Green,Ibuprofen,400mg,Twice daily,2024-05-27,Acid reflux,Drink plenty of water,8.0
+P0418,Dr. Emily Stone,Omeprazole,250mg,Twice daily,not_a_date,Hypertension,Complete full course,14.0
+P0352,Dr. Alan Walker ,Metformin,,Once daily,2024-11-05,Hypertension,Monitor blood sugar,15.0
+P0227,Dr. Alan Walker ,Metformin,250mg,Thrice daily,2024-12-25,Headache,Monitor blood sugar,15.0
+P0130,dr. lisa ray ,Loratadine,250mg,Twice daily,2024-11-20,Allergy,Avoid alcohol,10.0
+P0375,Dr. Michael Green,Omeprazole,10mg,Thrice daily,2024-05-14,Hypertension,Avoid allergens,14.0
+P0332,Dr. Lisa Ray,Ibuprofen,400mg,Once daily,2024-08-05,Fever,Avoid allergens,8.0
+P0485,Dr. Michael Green ,Metformin,400mg,Twice daily,2024-08-27,Allergy,Monitor blood sugar,15.0
+P0011,Dr. Alan Walker,Amoxicillin,250mg,Twice daily,2024-11-07,Infection,,12.0
+P0029,Dr. John Smith,Ibuprofen,250mg,Twice daily,2024-06-29,Diabetes,Complete full course,8.0
+P0436,Dr. Michael Green,amoxicillin,250mg,Twice daily,2024-11-17,hypertension,Take after meals,12.0
+P0391,Dr. Michael Green ,Ibuprofen,400mg,Once daily,2024-11-22,Hypertension,Take after meals,8.0
+P0385,Dr. Michael Green,Ibuprofen ,250mg,Once daily,2024-05-21,Infection,Complete full course,8.0
+P0318,Dr. Alan Walker,Paracetamol ,500mg,Once daily,2024-07-08,Fever,Take after meals,5.0
+P0126,Dr. Michael Green,omeprazole,10mg,Once daily,2024-06-06,Infection,Avoid alcohol,14.0
+P0220,Dr. Alan Walker,loratadine ,500mg,Once daily,2024-11-28,Allergy,Avoid allergens,10.0
+P0275,Dr. John Smith,Omeprazole,,Twice daily,2025-01-31,Allergy,Avoid allergens,14.0
+P0209,Dr. John Smith,omeprazole,10mg,Thrice daily,2025-03-05,Infection,Avoid alcohol,14.0
+P0063,Dr. Emily Stone,Omeprazole,250mg,Thrice daily,2024-10-11,Acid reflux,Drink plenty of water,14.0
+P0098,Dr. Michael Green,Omeprazole,500mg,Once daily,2024-06-21,Fever,Complete full course,14.0
+P0358,Dr. Emily Stone ,Amoxicillin,400mg,Thrice daily,2025-02-15,Allergy,Complete full course,12.0
+P0452,dr. alan walker,Loratadine,10mg,Thrice daily,2024-09-21,Infection,Complete full course,10.0
+P0117,Dr. Alan Walker,Omeprazole,400mg,Twice daily,2025-03-19,Hypertension ,Drink plenty of water,14.0
+P0349,Dr. John Smith,Omeprazole,10mg,Twice daily,2024-07-06,Allergy,Avoid allergens,14.0
+P0345,Dr. Alan Walker,Omeprazole,850mg,Thrice daily,2024-11-13,Asthma,Drink plenty of water,14.0
+P0042,Dr. Michael Green,Ibuprofen,,Thrice daily,2024-05-18,Headache,Drink plenty of water,8.0
+P0248,Dr. Lisa Ray,Paracetamol,500mg,Thrice daily,2024-09-21,Diabetes ,Avoid alcohol,5.0
+P0162,Dr. Emily Stone,azithromycin,10mg,Once daily,2025-03-17,Diabetes,Complete full course,18.0
+P0165,Dr. Emily Stone,Loratadine,400mg,Thrice daily,2024-06-23,Fever,Drink plenty of water,10.0
+P0291,Dr. Emily Stone,Loratadine,500mg,,2024-07-29,Hypertension,Monitor blood sugar,10.0
+P0051,Dr. Alan Walker,Amoxicillin ,400mg,Thrice daily,2024-10-22,Diabetes,Complete full course,12.0
+P0087,dr. emily stone,Ibuprofen,250mg,Once daily,2024-07-17,Allergy,Drink plenty of water,8.0
+P0050,Dr. Michael Green,Omeprazole ,500mg,Thrice daily,2024-12-02,Asthma,Complete full course,14.0
+P0120,Dr. Alan Walker,Loratadine,850mg,Thrice daily,2025-01-01,fever,Complete full course,10.0
+P0330,Dr. Michael Green,Loratadine,250mg,Twice daily,2024-08-05,Acid reflux,Avoid alcohol,10.0
+P0368,Dr. Lisa Ray,paracetamol,850mg,Twice daily,2024-09-14,Acid reflux,Drink plenty of water,5.0
+P0045,dr. emily stone,Loratadine ,10mg,,2024-09-27,Headache,,10.0
+P0475,Dr. Alan Walker,Amoxicillin ,,Twice daily,2024-08-03,Fever,Avoid alcohol,12.0
+P0312,Dr. Michael Green,Ibuprofen,850mg,Thrice daily,2024-10-05,Asthma,Drink plenty of water,8.0
+P0478,Dr. Alan Walker,Paracetamol,500mg,Thrice daily,2025-03-19,Headache,Drink plenty of water,5.0
+P0319,Dr. Lisa Ray,Ibuprofen,850mg,Twice daily,2025-01-29,Infection,Complete full course,8.0
+P0280,Dr. Lisa Ray,Omeprazole,400mg,Twice daily,2025-04-10,Infection,Take after meals,14.0
+P0190,Dr. Emily Stone,metformin,10mg,Thrice daily,2025-01-11,Fever ,Complete full course,15.0
+P0129,Dr. Emily Stone,Omeprazole,500mg,Thrice daily,2024-07-27,Headache,Avoid alcohol,14.0
+P0457,Dr. Lisa Ray,Ibuprofen,10mg,Twice daily,2024-06-17,Diabetes ,Avoid allergens,8.0
+P0239,Dr. Emily Stone,Ibuprofen,850mg,Twice daily,2025-04-06,Diabetes ,Complete full course,8.0
+P0160,Dr. Emily Stone ,Loratadine,500mg,Thrice daily,2024-05-25,Diabetes,Complete full course,10.0
+P0073,dr. michael green,Amoxicillin,500mg,Thrice daily,2024-08-10,Diabetes,Avoid allergens,12.0
+P0460,Dr. John Smith,Loratadine ,250mg,Once daily,2024-11-17,Fever,Avoid allergens,10.0
+P0489,Dr. John Smith,Loratadine ,850mg,Once daily,2025-01-25,Infection,Complete full course,10.0
+P0083,Dr. Michael Green,Metformin,10mg,Twice daily,2024-11-28,Asthma,Monitor blood sugar,15.0
+P0187,Dr. John Smith,omeprazole,250mg,Twice daily,2024-05-15,Diabetes,Avoid alcohol,14.0
+P0401,Dr. Lisa Ray,Paracetamol,10mg,Twice daily,2025-02-17,Asthma ,,5.0
+P0064,dr. alan walker,amoxicillin,250mg,Thrice daily,2024-04-13,Infection,Complete full course,12.0
+P0441,Dr. Michael Green,Amoxicillin,500mg,Thrice daily,2024-06-19,Infection,Drink plenty of water,12.0
+P0226,Dr. Lisa Ray,Azithromycin,500mg,Thrice daily,2024-05-28,Asthma,Monitor blood sugar,18.0
+P0146,Dr. Alan Walker,Metformin,850mg,Thrice daily,2025-03-08,Fever,Take after meals,15.0
+P0012,Dr. Emily Stone,amlodipine ,400mg,Once daily,2024-09-15,Infection,Avoid alcohol,11.0
+P0494,Dr. Emily Stone ,Paracetamol,850mg,Once daily,2024-06-20,Infection,Take after meals,5.0
+P0432,Dr. Michael Green,Paracetamol,10mg,Thrice daily,2024-07-24,Hypertension,Drink plenty of water,5.0
+P0115,Dr. John Smith,Ibuprofen,250mg,,2024-07-01,Acid reflux,Complete full course,8.0
+P0149,Dr. John Smith,Amoxicillin,10mg,Thrice daily,2025-01-18,Headache,,12.0
+P0131,Dr. John Smith ,Amoxicillin,400mg,Once daily,2024-08-23,Diabetes,Take after meals,12.0
+P0021,Dr. Michael Green,Omeprazole,10mg,Thrice daily,2024-06-10,Headache,Drink plenty of water,14.0
+P0184,dr. michael green,Amlodipine,400mg,Thrice daily,2024-11-22,Infection,Avoid allergens,11.0
+P0396,Dr. Emily Stone,Paracetamol ,400mg,Twice daily,2024-07-21,Allergy,Complete full course,5.0
+P0447,Dr. Lisa Ray,Ibuprofen,250mg,Once daily,2024-11-09,headache,Complete full course,8.0
+P0262,Dr. Emily Stone,Paracetamol,250mg,Once daily,2025-04-01,Fever,Avoid allergens,5.0
+P0096,Dr. Emily Stone,Metformin,,Twice daily,2025-01-18,Allergy,Complete full course,15.0
+P0184,dr. michael green,Amlodipine,400mg,Thrice daily,2024-11-22,Infection,Avoid allergens,11.0
+P0119,Dr. Emily Stone,amlodipine,850mg,Twice daily,2024-07-29,Diabetes,Take after meals,11.0
+P0399,Dr. Emily Stone,Metformin,400mg,Once daily,2024-11-27,Hypertension,Monitor blood sugar,15.0
+P0034,Dr. Emily Stone,Metformin,250mg,Once daily,2024-10-18,Infection,Take after meals,15.0
+P0014,Dr. Lisa Ray,Loratadine,500mg,,2024-05-25,Allergy,Avoid alcohol,10.0
+P0493,Dr. John Smith,ibuprofen,850mg,Twice daily,2025-02-15,asthma,,8.0
+P0311,Dr. Alan Walker,Paracetamol,250mg,Once daily,2024-09-23,Asthma,Take after meals,5.0
+P0173,Dr. John Smith,Ibuprofen,850mg,Thrice daily,2024-06-21,Asthma,Avoid alcohol,8.0
+P0167,Dr. Emily Stone,Metformin,500mg,Once daily,2024-07-28,Allergy ,Complete full course,15.0
+P0033,Dr. Emily Stone,Loratadine,400mg,Twice daily,2024-09-15,Infection,Avoid allergens,10.0
+P0457,Dr. Lisa Ray,Ibuprofen,10mg,Twice daily,2024-06-17,Diabetes ,Avoid allergens,8.0
+P0486,Dr. Alan Walker,Amlodipine,850mg,Twice daily,2024-11-06,Infection,Drink plenty of water,11.0
+P0113,Dr. Alan Walker,Amlodipine,400mg,Thrice daily,2025-03-05,Asthma,Take after meals,11.0
+P0266,dr. lisa ray,Azithromycin,400mg,Once daily,2024-10-21,Acid reflux,Drink plenty of water,18.0
+P0201,Dr. Alan Walker,Metformin,250mg,Twice daily,2024-04-19,Allergy,Avoid allergens,15.0
+P0492,Dr. Michael Green,Loratadine,,Once daily,2025-04-07,Allergy,Avoid allergens,10.0
+P0488,Dr. Michael Green,Azithromycin ,500mg,Once daily,2025-01-31,Diabetes,Avoid allergens,18.0
+P0179,Dr. Lisa Ray,Loratadine ,850mg,Once daily,2024-06-19,Headache,Take after meals,10.0
+P0458,Dr. Lisa Ray,Ibuprofen,850mg,Once daily,2024-07-20,Asthma,Avoid alcohol,8.0
+P0383,Dr. Lisa Ray,Azithromycin,850mg,Thrice daily,2025-01-21,Asthma,Drink plenty of water,18.0
+P0176,Dr. Emily Stone,ibuprofen ,10mg,Thrice daily,2024-09-19,Infection,Monitor blood sugar,8.0
+P0069,Dr. John Smith ,Amoxicillin,250mg,Once daily,2024-08-22,Fever,Drink plenty of water,12.0
+P0326,Dr. Alan Walker,Paracetamol,500mg,Thrice daily,2024-10-24,headache,Complete full course,5.0
+P0257,Dr. Lisa Ray,Paracetamol ,400mg,Thrice daily,2024-05-19,Fever,Complete full course,5.0
+P0024,Dr. Lisa Ray ,Omeprazole,850mg,Twice daily,2024-12-21,Diabetes,Take after meals,14.0
+P0411,dr. michael green,Paracetamol ,850mg,Thrice daily,2024-08-27,Asthma,Avoid allergens,5.0
+P0338,Dr. Emily Stone,Amoxicillin,10mg,Once daily,2024-07-15,Infection,Avoid alcohol,12.0
+P0124,Dr. Emily Stone,Amoxicillin,850mg,Thrice daily,2024-10-02,Headache ,Drink plenty of water,12.0
+P0122,Dr. Emily Stone,Loratadine,850mg,Twice daily,2024-09-30,Infection,Complete full course,10.0
+P0288,Dr. John Smith,amoxicillin,400mg,Twice daily,2025-03-29,Infection,,12.0
+P0211,Dr. Alan Walker,Amoxicillin,250mg,Twice daily,2025-03-15,Infection,Monitor blood sugar,12.0
+P0156,Dr. Alan Walker,Azithromycin,250mg,Twice daily,2024-09-08,Asthma,,18.0
+P0370,Dr. Emily Stone,Omeprazole,10mg,Once daily,2024-10-31,Allergy,Complete full course,14.0
+P0374,Dr. John Smith,Ibuprofen,10mg,Once daily,2024-05-26,Allergy,Take after meals,8.0
+P0369,Dr. Emily Stone,Loratadine ,250mg,,2024-04-25,headache,Drink plenty of water,10.0
+P0372,Dr. Alan Walker,Amoxicillin,500mg,Thrice daily,2024-10-26,Asthma ,Avoid allergens,12.0
+P0440,Dr. John Smith,Amoxicillin,500mg,Twice daily,2024-07-17,Allergy ,Avoid allergens,12.0
+P0493,Dr. John Smith,ibuprofen,850mg,Twice daily,2025-02-15,asthma,,8.0
+P0353,Dr. Alan Walker,Azithromycin,400mg,Thrice daily,2024-07-09,Hypertension,Avoid alcohol,18.0
+P0451,Dr. Lisa Ray,Metformin,400mg,Twice daily,2024-08-02,Diabetes ,Complete full course,15.0
+P0290,Dr. John Smith,Metformin,850mg,Thrice daily,2024-09-22,Acid reflux,Monitor blood sugar,15.0
+P0196,Dr. Emily Stone,Amlodipine,10mg,Once daily,2024-09-14,Asthma,Avoid alcohol,11.0
+P0243,Dr. John Smith ,Metformin,10mg,Once daily,2024-05-06,Fever,Monitor blood sugar,15.0
+P0455,Dr. Michael Green,Metformin,10mg,Twice daily,2024-06-26,Infection,Avoid allergens,15.0
+P0168,Dr. Michael Green,loratadine,400mg,Twice daily,not_a_date,acid reflux,Take after meals,10.0
+P0080,Dr. Lisa Ray,Omeprazole,500mg,Twice daily,2024-07-27,Fever,Complete full course,14.0
+P0238,Dr. John Smith ,Paracetamol,400mg,Thrice daily,2024-09-18,Diabetes,Avoid allergens,5.0
+P0287,Dr. Emily Stone,Amoxicillin,500mg,Thrice daily,2025-01-16,Diabetes,,12.0
+P0491,Dr. Michael Green,Azithromycin,250mg,Once daily,2025-03-16,diabetes,Take after meals,18.0
+P0077,Dr. Lisa Ray,Amoxicillin,400mg,Thrice daily,2024-10-25,Allergy,,12.0
+P0273,Dr. Lisa Ray,Azithromycin,850mg,Once daily,2024-11-30,Headache,Avoid allergens,18.0
+P0044,Dr. Michael Green,Paracetamol,850mg,Thrice daily,2024-10-13,Allergy,Complete full course,5.0
+P0263,Dr. Alan Walker,ibuprofen ,850mg,Twice daily,2025-03-15,Allergy,Monitor blood sugar,8.0
+P0325,Dr. Alan Walker,Amlodipine,500mg,Thrice daily,2024-08-29,Asthma ,Drink plenty of water,11.0
+P0141,Dr. Emily Stone ,Azithromycin,250mg,Thrice daily,2025-02-14,Allergy,Monitor blood sugar,18.0
+P0355,Dr. Alan Walker,Azithromycin,250mg,Twice daily,2025-01-31,infection,Take after meals,18.0
+P0320,Dr. Lisa Ray,Omeprazole,250mg,Thrice daily,2024-12-01,infection ,Avoid alcohol,14.0
+P0482,Dr. Michael Green,Omeprazole,,Twice daily,2024-10-01,Diabetes,Take after meals,14.0
+P0405,Dr. Emily Stone,Paracetamol,850mg,Thrice daily,2025-03-04,Allergy,Drink plenty of water,5.0
+P0027,Dr. Lisa Ray,Amoxicillin,250mg,Twice daily,2024-10-27,Acid reflux,Avoid allergens,12.0
+P0016,Dr. Michael Green,Amoxicillin,500mg,Twice daily,2024-07-07,Diabetes,Avoid allergens,12.0
+P0348,Dr. Michael Green,omeprazole,,Twice daily,2024-09-06,Headache ,Avoid alcohol,14.0
+P0438,Dr. John Smith,Amoxicillin,400mg,Thrice daily,2024-08-15,Acid reflux,Avoid alcohol,12.0
+P0213,Dr. Alan Walker,Ibuprofen,500mg,Thrice daily,2024-10-29,Hypertension ,Avoid alcohol,8.0
+P0043,Dr. Alan Walker,Amoxicillin,400mg,Once daily,2024-05-26,Allergy,Avoid alcohol,12.0
+P0394,Dr. Emily Stone,ibuprofen,850mg,Thrice daily,2024-05-08,Asthma,Drink plenty of water,8.0
+P0346,Dr. Lisa Ray,Metformin,500mg,Twice daily,2024-08-05,Allergy,Avoid allergens,15.0
+P0010,Dr. Alan Walker,Ibuprofen,850mg,Twice daily,2025-03-16,Allergy,Complete full course,8.0
+P0364,Dr. Michael Green,Omeprazole,,Thrice daily,2024-08-19,Infection,Drink plenty of water,14.0
+P0323,Dr. Emily Stone,Azithromycin ,850mg,Twice daily,2024-09-14,Infection ,Monitor blood sugar,18.0
+P0347,Dr. Lisa Ray,Omeprazole,400mg,Once daily,2024-12-12,Infection,Avoid alcohol,14.0
+P0004,Dr. Michael Green,Amlodipine ,500mg,Once daily,2024-12-31,Asthma,Avoid allergens,11.0
+P0221,Dr. Alan Walker,Amoxicillin,850mg,,2024-12-28,Hypertension,Take after meals,12.0
+P0241,Dr. Lisa Ray,Loratadine,10mg,,2024-11-07,Acid reflux,Avoid allergens,10.0
+P0381,Dr. Lisa Ray,Amlodipine,10mg,Thrice daily,2024-09-03,Asthma,Take after meals,11.0
+P0245,Dr. Alan Walker,Ibuprofen ,400mg,Once daily,2024-06-16,Allergy,Complete full course,8.0
+P0412,Dr. Lisa Ray,Metformin,850mg,Twice daily,2024-12-17,Headache,Avoid alcohol,15.0
+P0476,Dr. Alan Walker,Metformin,10mg,,2024-05-07,Diabetes,Complete full course,15.0
+P0298,Dr. John Smith,Amlodipine,250mg,Twice daily,2024-07-18,Diabetes,Monitor blood sugar,11.0
+P0388,Dr. Alan Walker,Loratadine,850mg,Thrice daily,2024-06-07,Acid reflux,Avoid allergens,10.0
+P0407,Dr. John Smith ,Amoxicillin,500mg,Once daily,2024-07-10,Infection,Monitor blood sugar,12.0
+P0249,Dr. Lisa Ray,Metformin ,250mg,Once daily,2024-10-03,Hypertension,Monitor blood sugar,15.0
+P0194,Dr. Alan Walker,Amoxicillin,400mg,Twice daily,2025-02-10,Fever,Drink plenty of water,12.0
+P0240,Dr. Michael Green,Azithromycin,500mg,Thrice daily,2024-12-25,Hypertension,Take after meals,18.0
+P0205,dr. john smith ,Ibuprofen,,,2025-01-02,Allergy,Complete full course,8.0
+P0269,Dr. Lisa Ray,Azithromycin,10mg,Once daily,2024-05-26,Allergy,Avoid allergens,18.0
+P0076,Dr. John Smith,Ibuprofen,10mg,Twice daily,2025-02-25,Diabetes,,8.0
+P0198,dr. alan walker,Loratadine,10mg,Once daily,2024-05-12,Hypertension,Avoid alcohol,10.0
+P0132,Dr. Lisa Ray,Loratadine ,,Twice daily,2024-10-04,Infection,Avoid alcohol,10.0
+P0299,Dr. Alan Walker,paracetamol,250mg,Thrice daily,2024-12-21,Fever,Avoid allergens,5.0
+P0490,Dr. Michael Green,Ibuprofen,850mg,,2024-05-12,Fever,Drink plenty of water,8.0
+P0351,Dr. Alan Walker,Omeprazole,,Thrice daily,2025-02-17,Asthma,Take after meals,14.0
+P0386,Dr. Lisa Ray,Ibuprofen,10mg,Once daily,2025-03-13,Diabetes,Take after meals,8.0
+P0089,Dr. Emily Stone,Omeprazole ,850mg,Once daily,2024-05-23,Infection,Avoid allergens,14.0
+P0427,Dr. Michael Green,Omeprazole,400mg,Thrice daily,2025-02-25,Diabetes,Monitor blood sugar,14.0
+P0071,Dr. John Smith,Amoxicillin,400mg,Once daily,2025-03-03,Diabetes,Monitor blood sugar,12.0
+P0151,Dr. Michael Green,Amlodipine ,250mg,Twice daily,2024-07-13,Hypertension,Monitor blood sugar,11.0
+P0228,Dr. John Smith,Amlodipine,500mg,Once daily,2024-04-19,Allergy,Take after meals,11.0
+P0359,Dr. Alan Walker,Paracetamol,850mg,Twice daily,2025-02-15,Asthma,Drink plenty of water,5.0
+P0082,Dr. Alan Walker,Paracetamol,250mg,Once daily,2024-11-07,Allergy,Monitor blood sugar,5.0
+P0309,Dr. Alan Walker,Amlodipine,500mg,Once daily,2024-09-03,headache,Complete full course,11.0
+P0350,Dr. Emily Stone,Amlodipine,10mg,Once daily,2024-07-26,Diabetes,Take after meals,11.0
+P0094,Dr. Emily Stone,loratadine,10mg,Thrice daily,2024-06-26,Infection,Drink plenty of water,10.0
+P0384,Dr. Emily Stone,Metformin,400mg,Thrice daily,2024-04-23,Diabetes ,Complete full course,15.0
+P0361,Dr. Emily Stone,Amoxicillin,850mg,Thrice daily,2024-10-21,Headache,Monitor blood sugar,12.0
+P0031,dr. michael green,Metformin,850mg,Once daily,2024-06-06,diabetes,Complete full course,15.0
+P0267,Dr. Lisa Ray,Metformin,10mg,Twice daily,2024-10-31,acid reflux ,Avoid alcohol,15.0
+P0344,Dr. Emily Stone,Amlodipine,,Once daily,2024-06-12,Headache,Take after meals,11.0
+P0055,Dr. Michael Green ,Loratadine,250mg,Thrice daily,2024-07-07,headache,Drink plenty of water,10.0
+P0371,Dr. Emily Stone,Paracetamol,850mg,Thrice daily,2024-10-24,Hypertension,Monitor blood sugar,5.0
+P0079,Dr. Michael Green ,Omeprazole,400mg,Once daily,2024-05-28,Diabetes ,Avoid allergens,14.0
+P0278,Dr. Lisa Ray,Ibuprofen,500mg,Once daily,2024-10-28,Diabetes,,8.0
+P0483,Dr. Lisa Ray,Amlodipine,500mg,Twice daily,2025-03-18,Hypertension ,Avoid alcohol,11.0
+P0271,Dr. Lisa Ray,Metformin,250mg,Once daily,2025-03-05,Headache,Complete full course,15.0
+P0342,Dr. Michael Green,omeprazole,850mg,Thrice daily,2024-12-26,Diabetes,Complete full course,14.0
+P0081,Dr. Michael Green,Azithromycin,850mg,Twice daily,2024-12-15,Asthma,Take after meals,18.0
+P0255,Dr. Alan Walker,Paracetamol,500mg,Once daily,2024-08-10,Hypertension,,5.0
+P0026,dr. alan walker,Azithromycin,10mg,Once daily,2024-06-08,Headache,Drink plenty of water,18.0
+P0477,Dr. Emily Stone ,Amoxicillin,10mg,Twice daily,2024-08-16,Headache ,Complete full course,12.0
+P0357,Dr. Emily Stone,Ibuprofen,400mg,Twice daily,2024-12-18,Acid reflux,Drink plenty of water,8.0
+P0023,Dr. Lisa Ray,Amlodipine,850mg,Thrice daily,2024-11-14,Diabetes,Avoid allergens,11.0
+P0499,Dr. Michael Green,Azithromycin,400mg,Thrice daily,2025-04-03,Hypertension,Monitor blood sugar,18.0
+P0067,Dr. Michael Green,Paracetamol,250mg,Once daily,2024-11-17,Hypertension,Complete full course,5.0
+P0375,Dr. Michael Green,Omeprazole,10mg,Thrice daily,2024-05-14,Hypertension,Avoid allergens,14.0
+P0125,Dr. Alan Walker,Metformin,400mg,,2024-05-06,Acid reflux,Take after meals,15.0
+P0315,Dr. Lisa Ray,ibuprofen,250mg,Thrice daily,not_a_date,Acid reflux,Drink plenty of water,8.0
+P0123,Dr. Michael Green,Azithromycin,400mg,Thrice daily,2024-12-10,Allergy ,Complete full course,18.0
+P0172,Dr. John Smith,Amlodipine,850mg,Twice daily,2025-02-07,Headache,Avoid alcohol,11.0
+P0420,Dr. Michael Green,Azithromycin,250mg,,2024-05-24,Headache,Complete full course,18.0
+P0426,dr. michael green,Azithromycin,400mg,Twice daily,2024-08-15,Diabetes,Avoid alcohol,18.0
+P0002,Dr. Emily Stone,amoxicillin,500mg,Once daily,2024-05-22,Hypertension ,Avoid allergens,12.0
+P0481,Dr. Emily Stone,Omeprazole,10mg,Thrice daily,2024-12-28,Fever,Avoid allergens,14.0
+P0072,Dr. Michael Green,Omeprazole,500mg,Once daily,2024-08-04,Headache,Monitor blood sugar,14.0
+P0138,Dr. Michael Green ,Paracetamol,10mg,Twice daily,2025-01-13,Infection,Drink plenty of water,5.0
+P0373,Dr. John Smith,Ibuprofen ,250mg,Once daily,2024-06-05,Infection,Avoid allergens,8.0
+P0203,Dr. John Smith,Ibuprofen,250mg,Twice daily,2024-09-04,Headache,Drink plenty of water,8.0
+P0264,Dr. Emily Stone,Omeprazole,250mg,Thrice daily,2024-11-21,Acid reflux,Avoid alcohol,14.0
+P0317,Dr. Lisa Ray,omeprazole,500mg,Once daily,2024-08-09,Acid reflux ,Drink plenty of water,14.0
+P0186,Dr. Emily Stone,Azithromycin ,850mg,Thrice daily,2024-12-04,Infection,Avoid alcohol,18.0
+P0018,dr. john smith,Amoxicillin,,Thrice daily,2024-06-19,Diabetes,Take after meals,12.0
+P0360,Dr. Alan Walker,Paracetamol,250mg,Thrice daily,2024-09-04,Hypertension,Avoid allergens,5.0
+P0449,Dr. Lisa Ray,Omeprazole,500mg,Once daily,2024-10-01,Fever,Drink plenty of water,14.0
+P0464,Dr. John Smith,Amoxicillin,250mg,Twice daily,2024-08-22,Fever,Complete full course,12.0
+P0335,Dr. Alan Walker,Omeprazole ,10mg,Twice daily,2025-02-27,Fever,Drink plenty of water,14.0
+P0413,Dr. Alan Walker,Omeprazole ,400mg,Once daily,2024-08-10,Fever,Monitor blood sugar,14.0
+P0193,Dr. Michael Green,Ibuprofen,250mg,Twice daily,2025-02-08,Headache,Monitor blood sugar,8.0
+P0444,Dr. Michael Green,Amlodipine,10mg,Once daily,2025-03-23,Infection,,11.0
+P0244,Dr. Michael Green,Metformin,10mg,Twice daily,2024-12-25,Headache,Drink plenty of water,15.0
+P0059,Dr. Lisa Ray,Omeprazole,250mg,Thrice daily,not_a_date,Infection,Avoid alcohol,14.0
+P0191,Dr. Emily Stone,Loratadine,850mg,Thrice daily,2024-05-21,Acid reflux,Complete full course,10.0
+P0009,Dr. Alan Walker,amlodipine,10mg,Twice daily,2024-12-22,Fever,Avoid alcohol,11.0
+P0163,dr. lisa ray,Ibuprofen,10mg,Once daily,2024-09-12,Headache,Complete full course,8.0
+P0463,Dr. Emily Stone,metformin,250mg,Once daily,2024-05-09,Allergy,,15.0
+P0322,Dr. Alan Walker,Metformin,850mg,Thrice daily,2025-01-29,infection,Avoid alcohol,15.0
+P0301,Dr. Michael Green,Loratadine,400mg,Twice daily,2024-10-29,Headache,,10.0
+P0005,Dr. Michael Green,azithromycin,10mg,Twice daily,2025-01-14,Diabetes,Take after meals,18.0
+P0376,Dr. Michael Green,Ibuprofen ,250mg,Once daily,2025-04-09,Infection,Complete full course,8.0
+P0057,Dr. Lisa Ray,Metformin,850mg,Once daily,2024-10-18,Infection,Avoid alcohol,15.0
+P0424,Dr. John Smith,Amlodipine,850mg,Twice daily,2024-09-02,Headache ,Avoid allergens,11.0
+P0306,Dr. Lisa Ray,Loratadine ,400mg,Twice daily,2024-10-22,Hypertension,Drink plenty of water,10.0
+P0316,Dr. Emily Stone,Metformin ,500mg,Once daily,2024-06-04,Fever,Avoid allergens,15.0
+P0164,Dr. Emily Stone ,Azithromycin,500mg,Thrice daily,2024-10-06,Headache,Complete full course,18.0
+P0040,dr. john smith,Metformin,500mg,Twice daily,2025-02-01,Hypertension,Avoid allergens,15.0
+P0107,Dr. Lisa Ray,Azithromycin,500mg,Once daily,2024-11-11,Allergy,Complete full course,18.0
+P0006,Dr. Michael Green,Loratadine,250mg,Once daily,2024-08-11,Fever,Avoid alcohol,10.0
+P0074,Dr. Alan Walker,Metformin,10mg,Thrice daily,2024-11-14,Asthma,Monitor blood sugar,15.0
+P0038,Dr. Lisa Ray,Amoxicillin,400mg,,2024-05-30,Headache,Take after meals,12.0
+P0222,Dr. Lisa Ray,Omeprazole,500mg,Once daily,2024-07-08,Allergy,Take after meals,14.0
+P0025,Dr. Alan Walker,Metformin,500mg,Thrice daily,2024-09-11,Infection,Avoid alcohol,15.0
+P0219,Dr. Lisa Ray ,Paracetamol,250mg,Thrice daily,2025-01-29,acid reflux,Complete full course,5.0
+P0185,Dr. Alan Walker,Amlodipine,400mg,Thrice daily,2025-01-18,Infection ,Monitor blood sugar,11.0
+P0015,Dr. Emily Stone ,omeprazole,250mg,Twice daily,2024-11-21,Asthma,Avoid allergens,14.0
+P0382,Dr. Emily Stone,Amoxicillin,10mg,Once daily,2024-07-18,Infection,Avoid allergens,12.0
+P0139,Dr. Emily Stone,Paracetamol,10mg,Thrice daily,2024-06-26,Allergy,Avoid alcohol,5.0
+P0472,Dr. Alan Walker,Metformin,500mg,Twice daily,2025-01-23,Hypertension,Drink plenty of water,15.0
+P0195,Dr. Emily Stone,paracetamol,10mg,Twice daily,2024-06-06,Acid reflux,Drink plenty of water,5.0
+P0137,Dr. Michael Green,Loratadine,400mg,Thrice daily,2024-11-24,Infection ,Take after meals,10.0
+P0310,Dr. Emily Stone,Ibuprofen,10mg,Twice daily,2024-09-17,Headache,Take after meals,8.0
+P0470,Dr. John Smith,Azithromycin,400mg,Thrice daily,2024-07-29,Infection,Take after meals,18.0
+P0284,Dr. Michael Green,Amlodipine,500mg,Thrice daily,2024-08-26,Allergy,,11.0
+P0393,Dr. Lisa Ray,Amlodipine,500mg,Thrice daily,2024-09-29,Asthma,Avoid alcohol,11.0
+P0030,Dr. Alan Walker ,Azithromycin,500mg,Twice daily,2024-10-09,Allergy,Avoid alcohol,18.0
+P0061,Dr. Emily Stone,omeprazole,500mg,Once daily,2025-02-14,Diabetes,Monitor blood sugar,14.0
+P0093,Dr. Alan Walker,Azithromycin,250mg,Twice daily,2024-06-10,Infection,Drink plenty of water,18.0
+P0152,Dr. Michael Green,Paracetamol,850mg,Thrice daily,2024-11-11,fever,Complete full course,5.0
+P0136,Dr. Emily Stone,Ibuprofen,250mg,Thrice daily,2024-09-08,Allergy,Complete full course,8.0
+P0398,Dr. Michael Green ,Azithromycin ,250mg,Once daily,2024-12-20,Acid reflux,Take after meals,18.0
+P0099,Dr. Emily Stone,amlodipine,500mg,Thrice daily,not_a_date,Asthma,Avoid alcohol,11.0
+P0189,Dr. Alan Walker,Paracetamol ,10mg,Twice daily,2025-04-07,Headache,Complete full course,5.0
+P0007,Dr. Michael Green,Amlodipine,500mg,Twice daily,2024-07-04,Infection,Avoid alcohol,11.0
+P0177,Dr. Emily Stone,loratadine,500mg,Twice daily,2024-11-15,Diabetes ,Drink plenty of water,10.0
+P0128,Dr. Michael Green,Azithromycin,250mg,Twice daily,2024-07-11,headache,Avoid alcohol,18.0
+P0108,dr. emily stone,Amoxicillin,250mg,Once daily,2024-08-06,Fever,Take after meals,12.0
+P0340,Dr. Alan Walker,Metformin ,500mg,Thrice daily,2024-06-02,Hypertension,Avoid alcohol,15.0
+P0295,Dr. Michael Green,Ibuprofen,500mg,Thrice daily,2024-05-20,Fever,Avoid allergens,8.0
+P0049,Dr. Emily Stone ,Azithromycin,500mg,Once daily,2024-05-27,Diabetes,Avoid allergens,18.0
+P0086,Dr. Lisa Ray ,Metformin,850mg,Once daily,2024-06-02,Acid reflux ,Avoid allergens,15.0
+P0041,Dr. John Smith,Amoxicillin,400mg,Once daily,2024-09-25,Asthma,Complete full course,12.0
+P0229,Dr. Emily Stone,Omeprazole,250mg,Thrice daily,2024-10-14,Allergy,Avoid allergens,14.0
+P0414,Dr. John Smith,Metformin,400mg,Once daily,2024-11-28,Infection,Avoid alcohol,15.0
+P0052,Dr. Alan Walker,Omeprazole,400mg,Once daily,2024-08-31,infection,,14.0
+P0118,Dr. John Smith,loratadine ,10mg,Once daily,2024-12-01,Allergy,Avoid allergens,10.0
+P0308,Dr. Michael Green ,Amoxicillin,500mg,Thrice daily,2024-10-19,Infection,Take after meals,12.0
+P0465,Dr. Lisa Ray,Ibuprofen,250mg,Twice daily,2024-10-08,Diabetes,Monitor blood sugar,8.0
+P0233,dr. emily stone,Amoxicillin ,500mg,Once daily,2024-10-23,Infection,Complete full course,12.0
+P0297,dr. lisa ray ,Omeprazole,850mg,Twice daily,2024-06-27,Acid reflux,Drink plenty of water,14.0
+P0279,Dr. Lisa Ray,Amlodipine,10mg,Once daily,2024-10-27,Asthma,Monitor blood sugar,11.0
+P0495,Dr. Alan Walker,Paracetamol,500mg,Thrice daily,2025-01-31,acid reflux,Take after meals,5.0
+P0228,Dr. John Smith,Amlodipine,500mg,Once daily,2024-04-19,Allergy,Take after meals,11.0
+P0459,Dr. Alan Walker,Amlodipine,400mg,Once daily,2024-06-07,Hypertension,Monitor blood sugar,11.0
+P0380,Dr. Michael Green,Paracetamol,400mg,Twice daily,2025-03-29,Headache,Avoid allergens,5.0
+P0148,Dr. Michael Green,Ibuprofen,250mg,Thrice daily,2025-01-26,Allergy,Avoid allergens,8.0
+P0143,Dr. Lisa Ray,Amoxicillin ,500mg,Thrice daily,2024-08-18,Diabetes,Complete full course,12.0
