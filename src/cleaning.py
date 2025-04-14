@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 def clean_data(filepath):
     data = pd.read_csv(filepath)
     
@@ -12,8 +12,13 @@ def clean_data(filepath):
     required_cols = ['patientid', 'medicinename', 'doctorname', 'date']
     data = data.dropna(subset=required_cols)
     
+    # text_cols = ['diagnosis', 'notes', 'dosage', 'frequency']
+    # data[text_cols] = data[text_cols].fillna('')
+    
+    # Replace both empty strings and NaN with "Not Specified"
     text_cols = ['diagnosis', 'notes', 'dosage', 'frequency']
-    data[text_cols] = data[text_cols].fillna('')
+    data[text_cols] = data[text_cols].replace(['', None, np.nan], 'Not Specified')
+    
     
     data['price'] = pd.to_numeric(data['price'], errors='coerce').fillna(0.0)
     
@@ -30,4 +35,4 @@ def clean_data(filepath):
 cleaned_df = clean_data('digital-doctor-prescription/mocking_prescriptions_uncleaned.csv')
 
 # Save cleaned data to CSV
-cleaned_df.to_csv('cleaned_prescriptions.csv', index=False)
+cleaned_df.to_csv('final_cleanedd_prescriptions.csv', index=False)
