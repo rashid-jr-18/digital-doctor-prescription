@@ -64,7 +64,7 @@ Total revenue categorized by diagnosis.
 
 ## 📂 GitHub Repository  
 Access the source code here:  
-https://github.com/digital-doctor-prescription
+[https://github.com/digital-doctor-prescription](https://github.com/rashid-jr-18/digital-doctor-prescription/)
 
 ---
 
